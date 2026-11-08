@@ -2,5 +2,7 @@
   "name": "Tender - Naija Dating App",
   "description": "Warm, modern mobile-first dating app crafted for Nigeria with card swiping, OTP onboarding, real-time chat, verified profiles, and complete MVP architecture.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
